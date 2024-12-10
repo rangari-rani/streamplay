@@ -18,4 +18,7 @@ Some of the technologies used in the development of this web application are as 
   - **Responsive Design**: Optimized for all screen sizes, providing a smooth experience.
     
 
+### License 
+[MIT License](LICENSE)
+
 
