@@ -12,20 +12,6 @@ StreamPlay is a responsive music streaming interface built with modern frontend 
 
 ---
 
-## 📚 About This Project
-
-Originally created during MCA (2022), this music player project was an early exercise in mastering React state, media playback logic, and responsive UI.
-
-While lightweight and fully frontend, it reflects strong fundamentals in:
-- Centralized playback control using React Context
-- Custom seek bar and play/pause toggling
-- Component-based structure with conditional rendering
-- Responsive layout using Tailwind CSS
-
-> 🕒 Organized and published later for clarity, learning, and portfolio presentation.
-
----
-
 ## 🛠️ Tech Stack
 
 - **[React.js](https://reactjs.org/)** – Dynamic frontend UI
@@ -52,16 +38,6 @@ While lightweight and fully frontend, it reflects strong fundamentals in:
 
 ---
 
-## 🔄 What Came Next  
-
-This project helped me explore dynamic UI state, audio controls, and React context in a focused setting.  
-
-After this, I began building **full-stack applications** with **ReactJS** and **Spring Boot**, adding real API integrations, role-based auth, database persistence, and modular monolithic structures.
-
-📌 **Explore my pinned GitHub repositories to see full-stack platforms built beyond the academic phase.**  
-
----
-
 ## 📁 Folder Structure 
 
 ```
@@ -83,8 +59,7 @@ streamplay/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rangari-rani/academic-projects-mca.git
-cd streamplay
+git clone https://github.com/rangari-rani/streamplay.git 
 ```
 
 ### 2. Install Dependencies
@@ -104,15 +79,6 @@ npm run dev
 
 ---
 
-
-## ⚠️ Limitations  
-
-- No user authentication or login system  
-- Music library is static (predefined songs only)  
-- No support for playlists, uploads, or personalization
-
----
-
 ## 📜 License
 
 [MIT License](LICENSE)
@@ -121,7 +87,5 @@ npm run dev
 
 ## 📬 Contact
 
-This project is based on academic work from my MCA program (2022).   
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
-
