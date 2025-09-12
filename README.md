@@ -16,8 +16,7 @@ StreamPlay is a responsive music streaming interface built with modern frontend 
 
 - **[React.js](https://reactjs.org/)** – Dynamic frontend UI
 - **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS for styling
-- No backend or API — **songs and metadata are embedded locally**
-
+  
 ---
 
 ## 📸 Screenshots
