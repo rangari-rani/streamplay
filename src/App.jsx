@@ -19,7 +19,7 @@ const App = () => {
 
       {/* Footer */}
 <footer className="bg-black border-t border-slate-700 text-center text-sm text-slate-400 py-3">
-  <p>© 2022 Rani Rangari</p>
+  <p>Rani Rangari</p>
   <p>
     <a
       href="https://github.com/rangari-rani"
